@@ -1,7 +1,7 @@
 # GWAN
-This is the code library for the implementation of Graph Wavelet Activation Network. [A Kolmogorov-Arnold-informed Interpretable Graph Wavelet Activation Network for Machine Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10079151).
+This is the code library for the implementation of GWAN. [A Kolmogorov-Arnold-informed Interpretable Graph Wavelet Activation Network for Machine Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10079151).
 
-![GWAN-based-fault diagnosis](https://github.com/HazeDT/SGWN/blob/main/SGWN.jpg)
+![GWAN-based-fault diagnosis](https://github.com/HazeDT/GWAN/blob/main/GWAN.jpg)
 
 
 # Note
@@ -15,7 +15,7 @@ python ./GWAN_master/train_graph.py --model_name GWAN  --data_name XJTUSpurgearR
 
 # Citation
 
-SGWN:
+GWAN:
 @ARTICLE{10079151,
   author={Li, Tianfu and Sun, Chuang and Zhao, Zhibin and Liu, Tao and Chen, Xuefeng and Yan, Ruqiang},
   journal={IEEE Transactions on Systems, Man and Cybernetics, Systems}, 
