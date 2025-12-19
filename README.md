@@ -24,6 +24,6 @@ GWAN:
   volume={},
   number={},
   pages={},
-  doi={}}
+  doi={10.1109/TSMC.2025.3647102}}
 
 
