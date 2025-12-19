@@ -20,7 +20,7 @@ GWAN:
   author={Li, Tianfu and Sun, Chuang and Zhao, Zhibin and Liu, Tao and Chen, Xuefeng and Yan, Ruqiang},
   journal={IEEE Transactions on Systems, Man and Cybernetics, Systems}, 
   title={A Kolmogorov-Arnold-informed Interpretable Graph Wavelet Activation Network for Machine Fault Diagnosis}, 
-  year={206},
+  year={2026},
   volume={},
   number={},
   pages={},
