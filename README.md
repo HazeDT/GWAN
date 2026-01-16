@@ -1,5 +1,5 @@
 # GWAN
-This is the code library for the implementation of GWAN. [A Kolmogorov-Arnold-informed Interpretable Graph Wavelet Activation Network for Machine Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10079151).
+This is the code library for the implementation of GWAN. [A Kolmogorov-Arnold-informed Interpretable Graph Wavelet Activation Network for Machine Fault Diagnosis](https://ieeexplore.ieee.org/document/11333912).
 
 ![GWAN-based-fault diagnosis](https://github.com/HazeDT/GWAN/blob/main/GWAN.jpg)
 
